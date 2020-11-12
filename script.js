@@ -88,7 +88,7 @@ const checkGameStatus = () => {
         if (xIsNext) {
             statusDiv.innerHTML = `${xSymbol} is next`;
         } else {
-            statusDiv.innerHTML = `<span>${xSymbol} is next</span>`;
+            statusDiv.innerHTML = `<span>o is next</span>`;
         }
     }
 };
@@ -107,7 +107,7 @@ const handleReset = (e) => {
 const handleCellClick = (e) => {
     const classList = e.target.classList
 
-    if (classList[1] === 'x' || classList[2] === 'o') {
+    if (!gameIsLive || classList[1] === 'x' || classList[2] === 'o') {
         return;
     }
 

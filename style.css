@@ -61,6 +61,10 @@ body {
     background-color: #14bdac;
     cursor: pointer;
 }
+.x,
+.o {
+    cursor: auto;
+}
 
 .x::after {
     content: '×';
