@@ -72,3 +72,7 @@ body {
     font-size: 200px;
     color: #f2ebd3
 }
+
+.won::after {
+    color: #bd022f;
+}
