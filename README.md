@@ -1,7 +1,5 @@
 # Tic-Tac-Toe Game
 
----
-
 ### Table of Contents
 
 - [Description](#description)
