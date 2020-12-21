@@ -1,4 +1,9 @@
 (function () {
+  // Dom Cache:
+  const statusDiv = document.querySelector('.status');
+  const resetDiv = document.querySelector('.reset');
+  const cellDivs = document.querySelectorAll('.game-cell');
+
   // Game Constants:
   const xSymbol = '×';
   const oSymbol = '○';
@@ -6,18 +11,6 @@
   // Game Variables:
   let gameIsLive = true;
   let xIsNext = true;
-
-  // Dom Cache:
-  const statusDiv = document.querySelector('.status');
-  const resetDiv = document.querySelector('.reset');
-  const cellDivs = document.querySelectorAll('.game-cell');
-
-  // Event Binders:
-  resetDiv.addEventListener('click', handleReset);
-
-  for (const cellDiv of cellDivs) {
-    cellDiv.addEventListener('click', handleCellClick);
-  }
 
   // Methods:
   function letterToSymbol(letter) {
@@ -127,7 +120,7 @@
     }
   }
 
-  function handleReset(e) {
+  function handleReset() {
     xIsNext = true;
     gameIsLive = true;
     statusDiv.innerHTML = `${xSymbol} is next`;
@@ -150,6 +143,12 @@
       classList.add('o');
       checkGameStatus();
     }
+  }
+  // Event Binders:
+  resetDiv.addEventListener('click', handleReset);
+
+  for (const cellDiv of cellDivs) {
+    cellDiv.addEventListener('click', handleCellClick);
   }
 
   return {};
