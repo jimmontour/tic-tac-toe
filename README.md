@@ -8,8 +8,6 @@
 - [License](#license)
 - [Author Info](#author-info)
 
----
-
 ## Description
 
 A multiplayer Tic-Tac-Toe game, crated as a project for The Odin Project.
@@ -19,9 +17,6 @@ A multiplayer Tic-Tac-Toe game, crated as a project for The Odin Project.
 - JavaScript
 
 [Back To The Top](#read-me-template)
-
----
-
 
 ## License
 
@@ -48,8 +43,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Back To The Top](#read-me-template)
-
----
 
 ## Author Info
 
