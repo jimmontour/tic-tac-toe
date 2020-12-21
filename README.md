@@ -46,7 +46,7 @@ SOFTWARE.
 
 ## Author Info
 
-- LinkedIn - [Jim Montour](https://linkedin.com/jimmontour)
+- LinkedIn - [Jim Montour](https://www.linkedin.com/in/jimmontour/)
 - Twitter - [@jimmontour](https://twitter.com/jimmontour)
 - Website - [Jim Montour](https://jimmontour.com)
 
