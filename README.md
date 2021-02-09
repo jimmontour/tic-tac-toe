@@ -21,7 +21,6 @@ A tic-tac-toe game made using vanilla JavaScript.  This was a project for the Od
 
 
 <!-- CONTACT -->
----
 ## Contact
 
 Jim Montour
