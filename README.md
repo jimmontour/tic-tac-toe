@@ -1,53 +1,74 @@
-# Tic-Tac-Toe Game
+<!--
+***
+Do a search and replace for the following:
+tic-tac-toe,
+Tic-Tac-Toe Game,
+Tic-Tac-Toe game, created as a project for The Odin Project course.
+-->
 
-### Table of Contents
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Description
 
-A multiplayer Tic-Tac-Toe game, crated as a project for The Odin Project.
 
-#### Technologies
+<!-- PROJECT LOGO -->
+<!-- <br />
+<p align="center">
+  <a href="https://github.com/jimmontour/tic-tac-toe">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a> -->
 
-- JavaScript
+  <h3 align="center">Tic-Tac-Toe Game</h3>
 
-[Back To The Top](#read-me-template)
+  <p align="center">
+    Tic-Tac-Toe game, created as a project for The Odin Project course.
+    <br />
+    <a href="https://github.com/jimmontour/tic-tac-toe"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jimmontour/tic-tac-toe">View Demo</a>
+    ·
+    <a href="https://github.com/jimmontour/tic-tac-toe/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jimmontour/tic-tac-toe/issues">Request Feature</a>
+  </p>
+</p>
 
-## License
 
-MIT License
 
-Copyright (c) [2020] [Jim Montour]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<!-- CONTACT -->
+## Contact
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+####Jim Montour
+Twitter: [@jimmontour](https://twitter.com/jimmontour)
+Email: jimmontour@gmail.com
+LinkedIn: [Jim Montour](https://linkedin.com/jimmontour)
+Website: [JimMontour.com](https://jimmontour.com)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Project Link: [https://github.com/jimmontour/tic-tac-toe](https://github.com/jimmontour/tic-tac-toe)
 
-[Back To The Top](#read-me-template)
 
-## Author Info
 
-- LinkedIn - [Jim Montour](https://www.linkedin.com/in/jimmontour/)
-- Twitter - [@jimmontour](https://twitter.com/jimmontour)
-- Website - [Jim Montour](https://jimmontour.com)
 
-[Back To The Top](#read-me-template)
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jimmontour/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/jimmontour/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jimmontour/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/jimmontour/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/jimmontour/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/jimmontour/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jimmontour/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/jimmontour/repo/issues
+[license-shield]: https://img.shields.io/github/license/jimmontour/repo.svg?style=for-the-badge
+[license-url]: https://github.com/jimmontour/repo/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/jimmontour
